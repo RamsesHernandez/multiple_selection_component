@@ -1,1 +1,0 @@
-# multiple_selection_component
